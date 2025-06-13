@@ -1,4 +1,4 @@
-# 👋 Hola, soy @Pablogg25
+# 👋 Hola, soy Pablo
 
 ## Sobre mí
 - 🎓 Estudiante de primer año de **Desarrollo de Aplicaciones Web (DAW)**
