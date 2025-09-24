@@ -1,9 +1,9 @@
 # 👋 Hola, soy Pablo
 
 ## Sobre mí
-- 🎓 Estudiante de primer año de **Desarrollo de Aplicaciones Web (DAW)**
+- 🎓 Estudiante de segundo año de **Desarrollo de Aplicaciones Web (DAW)**
 - 📚 Uso este repositorio para subir mis ejercicios de **Programación** y **Bases de Datos**
-- 💻 Actualmente trabajo con **JAVA** y **MySQL**
+- 💻 Actualmente trabajo con **PHP** y **JAVASCRIPT**
 - 🚀 En el futuro, planeo subir proyectos personales
 
 ## Contacto
