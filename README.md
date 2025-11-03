@@ -22,8 +22,8 @@ Habilidades técnicas
 Repositorios destacados
 ----------------------
 - SMR - Formación completa.
-- DAW2   
-- DAW1 
+- DAW2 - En proceso
+- DAW1 - Completado.
 
 Disponibilidad
 --------------
@@ -45,7 +45,7 @@ Estadísticas (automáticas)
 
 Notas
 -----
-- El CV y descripciones detalladas de proyectos se añadirán próximamente.  
+- El CV y descripciones detalladas de proyectos se añadirán próximamente (Al terminar mis estudios).  
 - Para oportunidades concretas (prácticas o junior), incluir una breve descripción del puesto y contacto preferido al enviar la oferta.
 
 > "El desarrollo web es creatividad, lógica y aprendizaje constante."
