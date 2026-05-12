@@ -55,6 +55,5 @@ Actualmente en modalidad DUAL con dedicación académica y laboral:
 ## 📝 Notas
 
 - El CV y descripciones detalladas de proyectos se añadirán próximamente.  
-- Para oportunidades concretas (prácticas o junior), incluir una breve descripción del puesto y contacto preferido.
 
 > "El desarrollo web es creatividad, lógica y aprendizaje constante."
