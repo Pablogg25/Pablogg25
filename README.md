@@ -1,10 +1,10 @@
 # Pablo González — Desarrollador Web Junior / Estudiante DAW
 
-![GitHub](https://img.shields.io/badge/GitHub-Pablogg25-black?logo=github) ![Ubicación](https://img.shields.io/badge/España-🇪🇸-red) ![Email](https://img.shields.io/badge/Email-pgonzalezg12@[...]
+![GitHub](https://img.shields.io/badge/GitHub-Pablogg25-black?logo=github) ![Ubicación](https://img.shields.io/badge/España-🇪🇸-red) ![Email](https://img.shields.io/badge/Email-pgonzalezg12%40educantabria.es-blue)
 
 ## 📌 Resumen profesional
 
-Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en modalidad **DUAL**. Trabajo 4 horas por las mañanas en **Fieldeas** (Cantabria), desarrollando e implementando soluc[...]
+Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en modalidad **DUAL**. Trabajo 4 horas por las mañanas en **Fieldeas** (Cantabria), desarrollando e implementando soluciones web innovadoras. Apasionado por la programación, el diseño de interfaces intuitivas y las buenas prácticas de desarrollo.
 
 ## 🎓 Formación
 
@@ -18,7 +18,7 @@ Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en 
 - **Fieldeas Forms** — Fieldeas S.L. (Cantabria)
   - **Modalidad:** Contrato DUAL (4 horas diarias, mañanas)
   - **Período:** 2026 (en curso)
-  - **Descripción:** Fieldeas Forms es una plataforma SaaS de gestión de formularios y datos en la nube. Permite a las empresas crear, distribuir y analizar formularios de forma intuitiva, con i[...]
+  - **Descripción:** Fieldeas Forms es una plataforma SaaS de gestión de formularios y datos en la nube. Permite a las empresas crear, distribuir y analizar formularios de forma intuitiva, con integración de bases de datos y análisis en tiempo real.
 
 ## 💻 Habilidades técnicas
 
