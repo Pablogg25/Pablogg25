@@ -1,10 +1,10 @@
 # Pablo González — Desarrollador Web Junior / Estudiante DAW
 
-![GitHub](https://img.shields.io/badge/GitHub-Pablogg25-black?logo=github) ![Ubicación](https://img.shields.io/badge/España-🇪🇸-red) ![Email](https://img.shields.io/badge/Email-pgonzalezg12@educantabria.es-blue) ![Estado](https://img.shields.io/badge/Estado-Trabajando%20en%20Fieldeas-brightgreen)
+![GitHub](https://img.shields.io/badge/GitHub-Pablogg25-black?logo=github) ![Ubicación](https://img.shields.io/badge/España-🇪🇸-red) ![Email](https://img.shields.io/badge/Email-pgonzalezg12@[...]
 
 ## 📌 Resumen profesional
 
-Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en modalidad **DUAL**. Trabajo 4 horas por las mañanas en **Fieldeas** (Cantabria), desarrollando e implementando soluciones en **Fieldeas Forms**. Interés en desarrollo full‑stack, buenas prácticas, y despliegue. Busco consolidar mi experiencia profesional mientras finalizo mis estudios.
+Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en modalidad **DUAL**. Trabajo 4 horas por las mañanas en **Fieldeas** (Cantabria), desarrollando e implementando soluc[...]
 
 ## 🎓 Formación
 
@@ -18,7 +18,7 @@ Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en 
 - **Fieldeas Forms** — Fieldeas S.L. (Cantabria)
   - **Modalidad:** Contrato DUAL (4 horas diarias, mañanas)
   - **Período:** 2026 (en curso)
-  - **Descripción:** Fieldeas Forms es una plataforma SaaS de gestión de formularios y datos en la nube. Permite a las empresas crear, distribuir y analizar formularios de forma intuitiva, con integración a múltiples canales y herramientas de automatización para optimizar la recopilación y análisis de datos.
+  - **Descripción:** Fieldeas Forms es una plataforma SaaS de gestión de formularios y datos en la nube. Permite a las empresas crear, distribuir y analizar formularios de forma intuitiva, con i[...]
 
 ## 💻 Habilidades técnicas
 
@@ -46,11 +46,6 @@ Actualmente en modalidad DUAL con dedicación académica y laboral:
 - **GitHub:** https://github.com/Pablogg25  
 - **Email:** pgonzalezg12@educantabria.es  
 - **LinkedIn / CV:** Se añadirán próximamente
-
-## 📊 Estadísticas (automáticas)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogg25&layout=compact&hide=Jupyter%20Notebook&cache_seconds=1800)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablogg25&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## 📝 Notas
 
