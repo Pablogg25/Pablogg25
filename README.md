@@ -1,4 +1,4 @@
-# Pablo González — Desarrollador Web Junior / Estudiante DAW
+# Pablo González García — Desarrollador Web Junior / Estudiante DAW
 
 ![GitHub](https://img.shields.io/badge/GitHub-Pablogg25-black?logo=github) ![Ubicación](https://img.shields.io/badge/España-🇪🇸-red) ![Email](https://img.shields.io/badge/Email-pgonzalezg12%40educantabria.es-blue)
 
