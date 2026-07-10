@@ -4,7 +4,7 @@
 
 ## 📌 Resumen profesional
 
-Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en modalidad **DUAL**. Trabajo 4 horas por las mañanas en **Fieldeas** (Cantabria), desarrollando e implementando soluciones web innovadoras. Apasionado por la programación, el diseño de interfaces intuitivas y las buenas prácticas de desarrollo.
+Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en modalidad **DUAL**. Durante el curso escolar trabajo 4 horas por las mañanas en **Fieldeas** (Cantabria) ahora en verano estoy trabajando de 8:00 a 15:00 en **Fieldeas**, desarrollando e implementando soluciones web innovadoras. Apasionado por la programación y las buenas prácticas de desarrollo.
 
 ## 🎓 Formación
 
@@ -12,7 +12,7 @@ Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en 
   - Repositorio del curso: https://github.com/Pablogg25/DAW2
 - **Primer curso** — Ciclo Formativo de Grado Superior en DAW (completado)
   - Repositorio: https://github.com/Pablogg25/DAW1
-
+- **Futuras Formaciones** - Tengo interes en realizar el curso de especialización en Inteligencia artificial y Big Data al finalizar DAW e intentar compaginarlo con un trabajo a jornada completa en paralelo si es posible      ya que las clases serian por la tarde
 ## 💼 Experiencia profesional
 
 - **Fieldeas Forms** — Fieldeas S.L. (Cantabria)
@@ -22,9 +22,9 @@ Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en 
 
 ## 💻 Habilidades técnicas
 
-- **Lenguajes:** PHP, JavaScript, HTML5, CSS3
-- **Frameworks/Librerías:** Laravel, React, Bootstrap
-- **Herramientas:** Git, VSCode, GitHub
+- **Lenguajes:** PHP, JavaScript, HTML5, CSS3, Python, Java
+- **Frameworks/Librerías:** Laravel, React, Bootstrap, Vue, Java Swing, JavaFX
+- **Herramientas:** Git, VSCode, GitHub, SourceTree
 - **DevOps básicos:** Docker, GitHub Actions
 - **Metodología:** Desarrollo ágil, control de versiones, buenas prácticas
 
@@ -37,18 +37,15 @@ Estudiante de Segundo curso de Desarrollo de Aplicaciones Web (DAW) cursando en 
 ## ⏰ Disponibilidad
 
 Actualmente en modalidad DUAL con dedicación académica y laboral:
-- **Horario:** Mañanas en Fieldeas (4 horas) + Tardes dedicadas al curso DAW
-- **Al finalizar estudios (verano 2026):** Disponible a jornada completa
-- **Modalidad preferida:** Remoto o presencial según condiciones
+- **Horario:** Mañanas en Fieldeas (4 horas) + Tardes dedicadas al curso DAW.
+- **Horario Verano:** 8:00-15:00 en Fieldeas.
+- **Modalidad preferida:** Remoto o presencial según condiciones.
+- Disponibilidad para otros proyectos ajenos a mi empleo principal.
 
 ## 📞 Contacto
 
 - **GitHub:** https://github.com/Pablogg25  
 - **Email:** pgonzalezg12@educantabria.es  
-- **LinkedIn / CV:** Se añadirán próximamente
-
-## 📝 Notas
-
-- El CV y descripciones detalladas de proyectos se añadirán próximamente.  
+- **LinkedIn / CV:** https://www.linkedin.com/in/pablo-gonzalez-garcia-593662409?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 > "El desarrollo web es creatividad, lógica y aprendizaje constante."
