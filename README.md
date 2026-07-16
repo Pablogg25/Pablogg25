@@ -45,7 +45,8 @@ Actualmente en modalidad DUAL con dedicación académica y laboral:
 ## 📞 Contacto
 
 - **GitHub:** https://github.com/Pablogg25  
-- **Email:** pgonzalezg12@educantabria.es  
+- **Email:**: - pgonzalezgarcia25@gmail.com
+              - pgonzalezg12@educantabria.es
 - **LinkedIn / CV:** https://www.linkedin.com/in/pablo-gonzalez-garcia-593662409?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 > "El desarrollo web es creatividad, lógica y aprendizaje constante."
